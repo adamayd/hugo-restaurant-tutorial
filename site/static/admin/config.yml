@@ -3,7 +3,7 @@ backend:
   repo: adamayd/hugo-restaurant-tutorial
   branch: master # Branch to update (optional; defaults to master)
 
-  media_folder: "src/img/gallery" # Folder where user uploaded files should go
+  media_folder: "img/gallery" # Folder where user uploaded files should go
 
   collections:
     - name: food
