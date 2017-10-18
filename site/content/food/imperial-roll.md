@@ -1,9 +1,9 @@
 ---
-date: 2017-05-17T13:03:58-04:00
+title: crispy imperial rolls
 categories:
   - lunch
+description: 'gulf shrimp, pork shoulder, vermicelli noodles, roasted peanut'
 type: rolls
-title: crispy imperial rolls
-description: gulf shrimp, pork shoulder, vermicelli noodles, roasted peanut
 price: 14
 ---
+
