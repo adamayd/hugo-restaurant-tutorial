@@ -1,7 +1,5 @@
 # Global settings applied to the whole site.
 NPM_VERSION = "5.4.2"
-[build]
-  publish = "public"
 [context.production.environment]
   HUGO_VERSION = "0.27"
 # you can lock a version of hugo for a deploy preview
