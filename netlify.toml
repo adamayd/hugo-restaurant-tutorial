@@ -1,9 +1,13 @@
+# Global settings applied to the whole site.
+NPM_VERSION = "5.4.2"
 [build]
-  command = "npm run build"
-  publish = "dist"
-  
-[template.environment]
-  HUGO_VERSION = "0.29"
+  publish = "public"
+[context.production.environment]
+  HUGO_VERSION = "0.27"
+# you can lock a version of hugo for a deploy preview
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.27"
 
-[context.deploy-preview]
-  command = "npm run build-preview"
+[build]
+  command = "gulp build"
+  publish = "dist"
