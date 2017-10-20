@@ -1,10 +1,10 @@
 ---
-title: Spicy Tuna Roll
+title: spicy ahi tuna tartare
 categories:
   - lunch
   - dinner
-description: 'Yellowfin Tuna, seaweed, rice'
+description: 'cucumber, french breakfast radish, sesame, lemongrass ponzu, rice cracker'
 type: raw bar
-price: '8'
+price: '20'
 ---
 
