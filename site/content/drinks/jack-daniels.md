@@ -1,7 +1,7 @@
 ---
 title: Jack Daniels
 categories:
-  - beer
+  - drinks
 description: Jack Daniels Whiskey
 type: whiskey
 price: '7'
